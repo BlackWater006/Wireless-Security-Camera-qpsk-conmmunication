@@ -1,0 +1,3 @@
+encoding,payload_bytes,ber,psnr_db,decoded
+raw_grayscale,49152,0.0021540323893229165,31.033237403417818,True
+jpeg_quality_70,3831,0.002153484729835552,nan,False
